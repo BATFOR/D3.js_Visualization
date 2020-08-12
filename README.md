@@ -3,7 +3,7 @@ d3个人感觉和JQuery很像，主要对DOM进行数据绑定且进行相关操
 ，然后将这这些处理了数据应用到画图展示上。  
 
 #### 力向导图 ####
-**使用d3 v5版 **  
+**使用d3 v5版**  
 **参考：** 此代码主要参考[https://github.com/zhaoluo123/vue-d3-force](https://github.com/zhaoluo123/vue-d3-force)，去除了其中的vue模块，将d3版本从v3提升到v5。  
 
 力向导图可视，主要采用d3中力学仿真([**forceSimulation**](https://github.com/xswei/d3-force/blob/master/README.md#forceSimulation))模块，这个模块主要功能就是对数据不断进行仿真（可以根据需求添加多个具体的仿真模型，通过force函数），它会将每次仿真结果直接
