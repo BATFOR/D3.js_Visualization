@@ -13,4 +13,5 @@ d3个人感觉和JQuery很像，主要对DOM进行数据绑定且进行相关操
 **功能：** 
 1. 节点之间多关系绘制，节点自我关系绘制
 2. 节点拖动放缩
-3. 节点隐藏、解除固定（初始全部固定、拖动节点会触发当前节点固定）、删除（只编写函数接口）功能
+3. 节点隐藏、解除固定（初始全部固定、拖动节点会触发当前节点固定）、删除（只编写函数接口）功能  
+![效果展示](https://github.com/BATFOR/D3.js_Visualization/blob/master/display_img/display_force1.gif?raw=true)
