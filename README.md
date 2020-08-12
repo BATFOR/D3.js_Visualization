@@ -2,7 +2,7 @@
 d3个人感觉和JQuery很像，主要对DOM进行数据绑定且进行相关操作。在学习D3之前，除了对HTML、css、js有相关应用了解外，还需对[SVG](https://www.runoob.com/svg/svg-rect.html)进行相关了解。d3中大部分函数库都是对数据进行处理
 ，然后将这这些处理了数据应用到画图展示上。  
 
-#### 力向导图 ####
+### 力向导图 ###
 **使用d3 v5版**  
 **参考：** 此代码主要参考[https://github.com/zhaoluo123/vue-d3-force](https://github.com/zhaoluo123/vue-d3-force)，去除了其中的vue模块，将d3版本从v3提升到v5。  
 
